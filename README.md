@@ -1,6 +1,6 @@
-#RVF Floating Point Extension
+# RVF Floating Point Extension
 RISC-V CPU with I and F extensions implemented in Verilog HDL.
-##**Supported instruction set:**
+## **Supported instruction set:**
 -fadd.s
 -fsub.s
 -fmul.s
