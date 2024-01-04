@@ -13,4 +13,4 @@ RISC-V CPU with I and F extensions implemented in Verilog HDL.
 - flw
 - fsw
 - fclass.s
-All the above instructions are supported beside most of the I extension instruction set that was previously uploaded in RISC-V repo.
+# All the above instructions are supported beside most of the I extension instruction set that was previously uploaded in RISC-V repo.
