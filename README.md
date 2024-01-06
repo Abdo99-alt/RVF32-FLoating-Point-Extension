@@ -4,7 +4,7 @@ RISC-V CPU with I and F extensions implemented in Verilog HDL.
 - fadd.s
 - fsub.s
 - fmul.s
-- fcv.s.w
+- fcvt.s.w
 - fmin.s
 - fmax.s
 - fle.s
